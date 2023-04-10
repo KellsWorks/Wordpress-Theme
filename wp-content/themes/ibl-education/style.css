@@ -1,0 +1,20 @@
+/*
+Theme Name: IBL Education
+Theme URI: http://www.example.com/ibl-education
+Description: IBL Education Clone theme for Wordpress
+Author: Kelvin Chidothi
+Author URI: http://www.example.com
+Version: 1.0
+*/
+
+/* Basic styles */
+body {
+    background-color: #fff;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+
+.button {
+    background-color: red;
+}
